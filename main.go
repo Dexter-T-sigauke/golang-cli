@@ -12,6 +12,7 @@ func main() {
 
 	// command-line arguments
 	flag.Parse()
+	// some comment here
 
 	// Greeting the user by name
 	fmt.Printf("Hello, %s!\n", *name)
